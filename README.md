@@ -1,4 +1,4 @@
 # portfolio-cv
 
 
-lukedev.vervel.app
+https://lukedev.vercel.app
