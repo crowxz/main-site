@@ -128,7 +128,7 @@ let footer = $(`
              <div class="form-header">
                 <h6 class="display">Entre em contato</h6>
               </div>
-               <form action="https://formsubmit.co/your@email.com" method="POST">
+               <form action="https://formsubmit.co/lucasleite.bv@gmail.com" method="POST">
      <input type="text" name="name" required>
      <input type="email" name="email" required>
      <button type="submit">Send</button>
