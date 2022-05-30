@@ -128,11 +128,13 @@ let footer = $(`
              <div class="form-header">
                 <h6 class="display">Entre em contato</h6>
               </div>
-               <form action="https://formsubmit.co/lucasleite.bv@gmail.com" method="POST">
-     <input type="text" name="name" required>
-     <input type="email" name="email" required>
-     <button type="submit">Enviar</button>
-</form>
+                   <form>
+                  <form action="https://formcarry.com/s/S2thQbCqEvW" method="POST" accept-charset="UTF-8" >
+                  <input type="text" name="field1" placeholder="Seu nome" required/>
+                  <input type="email" name="field2" placeholder="Seu e-mail"  required/>
+                  <textarea name="field3" placeholder="Escreva sua mensagem" required></textarea>
+                  <input type="submit" value="Enviar" />
+                </form>
              </div>
           </div>
         </div>
